@@ -1,6 +1,6 @@
 # Andres Chang
 
-**`Front End Developer`**
+**`Web Developer`**
 
 I'm a web developer that focuses on front end.
 
