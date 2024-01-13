@@ -1,7 +1,5 @@
 # Andres Chang
 
-**`Web Developer`**
-
 Web Developer
 
 ---
