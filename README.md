@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm a web developer that focuses on front end.
+Web Developer
 
 ---
 
